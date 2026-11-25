@@ -444,7 +444,7 @@ def render_masthead() -> None:
         <header class="masthead">
           <div class="brand">{_LOGO_SVG}
             <div>
-              <div class="brand-kicker">France Inter · Carl PETERSEN</div>
+              <div class="brand-kicker">France Inter · Peter LAURENSON</div>
               <div class="brand-title" role="heading" aria-level="1">Mes éditos du matin</div>
               <div class="brand-sub">Suivre, hiérarchiser et ficher les chroniques quotidiennes, du lundi au samedi.</div>
             </div>
